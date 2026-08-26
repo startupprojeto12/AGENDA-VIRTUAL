@@ -1,11 +1,11 @@
 # AGENDA VIRTUAL
-Agenda Virtual
+AGENDA VIRTUAL
 
 Organize sua rotina em um só lugar.
 
 O Agenda Virtual é uma aplicação web simples e intuitiva criada para ajudar pessoas a gerenciarem seus compromissos, tarefas e lembretes do dia a dia. Em vez de depender de agendas físicas ou anotações espalhadas, a proposta é reunir tudo em uma interface única, leve e fácil de usar.
 
-Funcionalidades
+FUNCIONALIDADES
 
 ● Visualização de calendário mensal, com navegação entre meses
 
@@ -19,7 +19,7 @@ Funcionalidades
 ● Salvamento automático no navegador — nada se perde ao fechar a página
 
 
-Tecnologias utilizadas
+TECNOLOGIAS UTILIZADAS
 
 ● HTML5
 
